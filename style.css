@@ -7,6 +7,7 @@ body {
   padding:12px;
   height:40px;
   gap:250px;
+  justify-content: space-between;
 }
 .nav-center {
   display: flex;
@@ -80,6 +81,7 @@ body {
   display:flex;
   gap:40px;
   padding:12px;
+  justify-content: space-between;
 }
 .nav-two-images {
   width:36px;
@@ -194,12 +196,13 @@ body {
   align-items: center;
   z-index:100;
   position:fixed;
-  left:40%;
+  left:45%;
   bottom:10px;
   border-radius:24px;
-  background-color: rgb(255, 255, 255);
+  background-color: rgb(98, 98, 98);
   padding:8px 16px;
   width:150px;
+  color:white;
   border:1px solid rgb(71, 71, 71);
 }
 .loc {
