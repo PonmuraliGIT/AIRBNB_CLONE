@@ -1,5 +1,6 @@
 body {
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-size:13px;
 }
 .navigation {
   display:flex;
@@ -67,6 +68,10 @@ body {
 
 .nav-right-icon {
   width:16px;  
+}
+.title{
+  font-size:14px;
+  font-weight:500;
 }
 
 /* Navigation Two */
